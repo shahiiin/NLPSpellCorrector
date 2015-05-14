@@ -4,5 +4,5 @@ This is adapted from Dan Jurafsky and Chris Manning's online NLP course. They ba
 
 # Running the code:
 
-# $ cd src
-# $ python3 SpellCorrect.py
+ $ cd src
+ $ python3 SpellCorrect.py
